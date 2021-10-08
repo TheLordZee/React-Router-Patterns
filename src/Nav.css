@@ -1,0 +1,11 @@
+.Nav-link {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: grey;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.Nav-link.active {
+    color: black;
+}

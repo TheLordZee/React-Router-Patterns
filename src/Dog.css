@@ -1,0 +1,11 @@
+.Dog {
+    border: 2px solid black;
+    margin-top: 2rem;
+    border-radius: 25%;
+    background-color: skyblue;
+}
+
+.Dog img {
+    border-radius: 50%;
+}
+

@@ -1,0 +1,11 @@
+.DogList-dog {
+    border: 2px solid black;
+    margin-top: 2rem;
+    padding-bottom: 3rem;
+    border-radius: 25%;
+    background-color: skyblue;
+}
+
+.DogList-dog img {
+    border-radius: 50%;
+}
