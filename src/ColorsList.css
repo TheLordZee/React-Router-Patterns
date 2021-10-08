@@ -1,0 +1,14 @@
+.ColorsList-header {
+    background-color: black;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.ColorsList-header h2 {
+    color: white;
+}
+
+.ColorsList-new {
+    font-size: 2rem;
+    color: white;
+}

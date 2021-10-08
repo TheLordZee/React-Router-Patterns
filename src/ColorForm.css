@@ -1,0 +1,9 @@
+.ColorForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ColorForm-input {
+    margin-bottom: 1rem;
+}
